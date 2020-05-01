@@ -2,7 +2,6 @@
 title: "Ansible and Configuration Management: The truth"
 featured_image: "images/ansible_red.png"
 date: 2020-04-30T20:45:28-04:00
-draft: true
 ---
 
 Cityscape where the blood of good men courses
