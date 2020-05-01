@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Derek McKnight</title>
-    <link>http://www.mcknightsolution.io/tags/</link>
+    <link>https://djmcknight.github.io/blog/tags/</link>
     <description>Recent content in Tags on Derek McKnight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.mcknightsolution.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djmcknight.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
