@@ -1,5 +1,4 @@
-#baseURL = "http://www.mcknightsolution.io"
-baseURL = "https://djmcknight.github.io/blog/"
+baseURL = "http://blog.mcknightsolution.io"
 languageCode = "en-us"
 title = "Derek McKnight"
 theme = "ananke"
