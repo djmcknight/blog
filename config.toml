@@ -2,6 +2,7 @@ baseURL = "http://www.mcknightsolution.io"
 languageCode = "en-us"
 title = "Derek McKnight"
 theme = "ananke"
+publishDir = "docs"
 
 SectionPagesMenu = "main"
 
