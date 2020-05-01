@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.mcknightsolution.io/about/</loc>
+    <loc>https://blog.mcknightsolutions.io/about/</loc>
     <lastmod>2020-04-30T21:53:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.mcknightsolution.io/</loc>
+    <loc>https://blog.mcknightsolutions.io/</loc>
     <lastmod>2020-04-30T21:53:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.mcknightsolution.io/posts/</loc>
+    <loc>https://blog.mcknightsolutions.io/posts/</loc>
     <lastmod>2020-04-30T21:52:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.mcknightsolution.io/posts/myfirstpost/</loc>
+    <loc>https://blog.mcknightsolutions.io/posts/myfirstpost/</loc>
     <lastmod>2020-04-30T20:45:28-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.mcknightsolution.io/categories/</loc>
+    <loc>https://blog.mcknightsolutions.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.mcknightsolution.io/tags/</loc>
+    <loc>https://blog.mcknightsolutions.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

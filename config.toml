@@ -1,4 +1,4 @@
-baseURL = "http://blog.mcknightsolution.io"
+baseURL = "https://blog.mcknightsolutions.io"
 languageCode = "en-us"
 title = "Derek McKnight"
 theme = "ananke"
