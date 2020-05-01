@@ -5,29 +5,41 @@
   <url>
     <loc>http://www.mcknightsolution.io/about/</loc>
     <lastmod>2020-04-30T21:53:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mcknightsolution.io/</loc>
     <lastmod>2020-04-30T21:53:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mcknightsolution.io/posts/</loc>
     <lastmod>2020-04-30T21:52:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mcknightsolution.io/posts/myfirstpost/</loc>
     <lastmod>2020-04-30T20:45:28-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mcknightsolution.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mcknightsolution.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
